@@ -1,0 +1,9 @@
+# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
+
+azure-functions
+requests
+
+opencensus-extension-azure-functions
+opencensus-ext-requests
+git+https://github.com/Hazhzeng/python-extension-validator.git
+git+https://github.com/Hazhzeng/python-extension-timer-header.git

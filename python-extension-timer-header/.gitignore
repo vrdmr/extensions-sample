@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv*
+.env*
+venv*
+env*
+
+# PyCache
+__pycache__
+
+# Editor
+.vscode/
+
+# Package Related
+*.egg-info

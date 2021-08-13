@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: python-extension-validator
+Version: 1.0.0
+Summary: Python Extension Validator
+Home-page: https://github.com/Hazhzeng/python-extension-validator
+Author: Your Name Here
+Author-email: your@email.here
+License: MIT
+Description: ### Overview
+        
+        This is a Python Worker Extension Demo for developing a timer trigger
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7

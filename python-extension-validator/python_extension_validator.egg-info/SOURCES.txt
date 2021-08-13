@@ -1,0 +1,8 @@
+setup.py
+python_extension_validator/__init__.py
+python_extension_validator.egg-info/PKG-INFO
+python_extension_validator.egg-info/SOURCES.txt
+python_extension_validator.egg-info/dependency_links.txt
+python_extension_validator.egg-info/not-zip-safe
+python_extension_validator.egg-info/requires.txt
+python_extension_validator.egg-info/top_level.txt
